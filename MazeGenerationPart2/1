@@ -1,0 +1,183 @@
+MAZE START
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X   p E 
+X X X   X   X X X X X   X X 
+X           X           X X 
+X X X X X         X X X X X 
+X             F           X 
+X   X X X X       X X   X X 
+X       X           X   X X 
+E p     X X X   X   X   X X 
+X               X         X 
+X X X p X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+----------------------------------------------------------
+MAZE STATUS
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X p   E 
+X X X   X   X X X X X   X X 
+X           X           X X 
+X X X X X         X X X X X 
+X             F           X 
+X   X X X X       X X   X X 
+X p     X           X   X X 
+E       X X X   X   X   X X 
+X     p         X         X 
+X X X   X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+----------------------------------------------------------
+MAZE STATUS
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X     E 
+X X X   X   X X X X X p X X 
+X           X           X X 
+X X X X X         X X X X X 
+X             F           X 
+X p X X X X       X X   X X 
+X       X           X   X X 
+E       X X X   X   X   X X 
+X       p       X         X 
+X X X   X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+----------------------------------------------------------
+MAZE STATUS
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X     E 
+X X X   X   X X X X X   X X 
+X           X         p X X 
+X X X X X         X X X X X 
+X p           F           X 
+X   X X X X       X X   X X 
+X       X           X   X X 
+E       X X X   X   X   X X 
+X         p     X         X 
+X X X   X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+----------------------------------------------------------
+MAZE STATUS
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X     E 
+X X X   X   X X X X X   X X 
+X           X       p   X X 
+X X X X X         X X X X X 
+X   p         F           X 
+X   X X X X       X X   X X 
+X       X           X   X X 
+E       X X X   X   X   X X 
+X           p   X         X 
+X X X   X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+----------------------------------------------------------
+MAZE STATUS
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X     E 
+X X X   X   X X X X X   X X 
+X           X     p     X X 
+X X X X X         X X X X X 
+X     p       F           X 
+X   X X X X       X X   X X 
+X       X           X   X X 
+E       X X X   X   X   X X 
+X             p X         X 
+X X X   X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+----------------------------------------------------------
+MAZE STATUS
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X     E 
+X X X   X   X X X X X   X X 
+X           X   p       X X 
+X X X X X         X X X X X 
+X       p     F           X 
+X   X X X X       X X   X X 
+X       X           X   X X 
+E       X X X p X   X   X X 
+X               X         X 
+X X X   X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+----------------------------------------------------------
+MAZE STATUS
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X     E 
+X X X   X   X X X X X   X X 
+X           X p         X X 
+X X X X X         X X X X X 
+X         p   F           X 
+X   X X X X       X X   X X 
+X       X     p     X   X X 
+E       X X X   X   X   X X 
+X               X         X 
+X X X   X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+----------------------------------------------------------
+MAZE STATUS
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X     E 
+X X X   X   X X X X X   X X 
+X           X           X X 
+X X X X X     p   X X X X X 
+X           p F           X 
+X   X X X X   p   X X   X X 
+X       X           X   X X 
+E       X X X   X   X   X X 
+X               X         X 
+X X X   X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+----------------------------------------------------------
+MAZE STATUS
+Player 0 has completed the maze 
+Player 1 has completed the maze 
+Player 2 has completed the maze 
+
+X X X X X X X X X X X X X X 
+X X X                     X 
+X X X   X X X X X X X   X X 
+X X X   X       X X X     E 
+X X X   X   X X X X X   X X 
+X           X           X X 
+X X X X X         X X X X X 
+X             F           X 
+X   X X X X       X X   X X 
+X       X           X   X X 
+E       X X X   X   X   X X 
+X               X         X 
+X X X   X   X   X   X   X X 
+X X X E X X X X X X X X X X 
+----------------------------------------------------------
+Maze Completed - All Player's have completed the Maze
